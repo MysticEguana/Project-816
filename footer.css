@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer {
+    background-color: rgb(27, 27, 27);
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+    border: 1px solid #444;
+    width: 100%;
+    position: fixed;
+    bottom: 0; 
+}
